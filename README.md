@@ -1,1 +1,2 @@
 # Capstone_Project
+The objective of this capstone project is to analyse and select the best locations in the New York City to open a new Indian cuisine restaurant. Using data science methodology and machine learning techniques like clustering, this project aims to provide solutions to answer the main business question : **If a restaurant manager is looking for a new Indian cuisine restaurant in the New York City, US where would you recommend that they open it?**
